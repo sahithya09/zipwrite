@@ -40,4 +40,4 @@ However default values are set for all the elements.
                       The default value is set to **2000ms**.
             
 ###Finally
-Made with  ❤  by  zippytalk
+Made with passion by Sahithya :)
